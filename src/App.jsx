@@ -382,7 +382,7 @@ const App = () => {
             <div className="skill-dot" />
           </div>
           <div className="skill-pill">
-            <span>SQL / MySql</span>
+            <span>Vercel / Render</span>
             <div className="skill-dot" />
           </div>
           <div className="skill-pill">
