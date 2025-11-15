@@ -1,6 +1,4 @@
 import React from "react";
-import bcgCert from "./assets/BCG_GenAI_Job_Simulation_certificate.pdf";
-import promptCert from "./assets/PromptEngineering_Certificate.pdf";
 
 const simulations = [
   {
@@ -14,7 +12,7 @@ const simulations = [
       "Delivered a working prototype demonstrating how GenAI can support financial analysis, streamline reporting workflows, and enhance decision-making for business users."
     ],
     tags: ["GenAI", "Python", "pandas", "10-K / 10-Q", "Financial Chatbot"],
-    certificateUrl: bcgCert 
+    certificateUrl: "/BCG_GenAI_JoB_Simulation_certificate.pdf" 
   },
   {
     title: "Prompt Engineering for ChatGPT — Vanderbilt University",
@@ -27,7 +25,7 @@ const simulations = [
       "Strengthened understanding of how LLMs interpret prompts, manage context, and generate structured responses for applied use cases."
     ],
     tags: ["Prompt Engineering", "LLMs", "ChatGPT", "Prompt Patterns"],
-    certificateUrl: promptCert 
+    certificateUrl: "/PromptEngineering_Certificate.pdf" 
   }
   // ➕ Add more simulations here later by pushing new objects
 ];
