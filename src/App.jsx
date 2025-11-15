@@ -39,7 +39,7 @@ const App = () => {
       <header className="nav">
         <div className="nav-inner">
           <div className="nav-logo">
-            <span>MR</span> Madhusudhan Reddy
+            <span>MR</span> MADHUSUDHAN REDDY KUPPAM
           </div>
           <nav className="nav-links">
             <a href="#about">About</a>
@@ -354,6 +354,10 @@ const App = () => {
             <div className="skill-dot" />
           </div>
           <div className="skill-pill">
+            <span>Java</span>
+            <div className="skill-dot" />
+          </div>
+          <div className="skill-pill">
             <span>JavaScript / TypeScript</span>
             <div className="skill-dot" />
           </div>
@@ -378,7 +382,19 @@ const App = () => {
             <div className="skill-dot" />
           </div>
           <div className="skill-pill">
+            <span>SQL / MySql</span>
+            <div className="skill-dot" />
+          </div>
+          <div className="skill-pill">
             <span>AWS (EC2, S3, Lambda)</span>
+            <div className="skill-dot" />
+          </div>
+          <div className="skill-pill">
+            <span>Redis</span>
+            <div className="skill-dot" />
+          </div>
+          <div className="skill-pill">
+            <span>GraphQL</span>
             <div className="skill-dot" />
           </div>
           <div className="skill-pill">
@@ -410,7 +426,47 @@ const App = () => {
             <div className="skill-dot" />
           </div>
           <div className="skill-pill">
-            <span>Figma / Lucidchart</span>
+            <span>Azure</span>
+            <div className="skill-dot" />
+          </div>
+          <div className="skill-pill">
+            <span>Machine Learning</span>
+            <div className="skill-dot" />
+          </div>
+          <div className="skill-pill">
+            <span>NLP</span>
+            <div className="skill-dot" />
+          </div>
+          <div className="skill-pill">
+            <span>HTML & CSS</span>
+            <div className="skill-dot" />
+          </div>
+          <div className="skill-pill">
+            <span>Gen AI</span>
+            <div className="skill-dot" />
+          </div>
+          <div className="skill-pill">
+            <span>ChatGPTs</span>
+            <div className="skill-dot" />
+          </div>
+          <div className="skill-pill">
+            <span>APIs</span>
+            <div className="skill-dot" />
+          </div>
+          <div className="skill-pill">
+            <span>Git / GitHub</span>
+            <div className="skill-dot" />
+          </div>
+          <div className="skill-pill">
+            <span>Data Visualization / BI</span>
+            <div className="skill-dot" />
+          </div>
+          <div className="skill-pill">
+            <span>RPA (Robotic Process Automation)</span>
+            <div className="skill-dot" />
+          </div>
+          <div className="skill-pill">
+            <span>UiPath</span>
             <div className="skill-dot" />
           </div>
         </div>
